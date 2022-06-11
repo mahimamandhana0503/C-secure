@@ -34,7 +34,7 @@ for the above problems we came up with three APPs(android) and One Raspberry-pi 
 * [The Admin APP](https://github.com/vishalsingh9423/C-secure/tree/master/Admin): 
 * The Parents' APP:
 * The BusDrivers' APP:
-* [Raspberry pi interface](https://github.com/vishalsingh9423/C-secure/blob/master/spifile.py)
+* [Raspberry pi interface](https://github.com/mahimamandhana0503/C-secure/blob/master/spifile.py)
 
 
 This git consist of the admin application and raspberry pi interfacing
